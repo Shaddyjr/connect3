@@ -6,3 +6,5 @@
 - code end of game logic
 - begin coding special gems and their logic
 - code "slow" animation of gems falling into place
+- code grouping
+- code group pruning and flagging
