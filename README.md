@@ -2,9 +2,5 @@
 [Direct link](https://shaddyjr.github.io/connect3/)
 
 # TODO LIST
-- code logic for gem movement w/validity check
-- code end of game logic
-- begin coding special gems and their logic
+- begin coding special gems and their logic (includes center gem transition)
 - code "slow" animation of gems falling into place
-- code grouping
-- code group pruning and flagging
