@@ -4,3 +4,5 @@
 # TODO LIST
 - begin coding special gems and their logic (includes center gem transition)
 - code "slow" animation of gems falling into place
+- resolve "new" gem status
+- code gem grouping
